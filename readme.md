@@ -105,11 +105,4 @@ Issues & suggestions are welcome. 🚀
 This project is licensed under the MIT License.
 
 
----
 
-### **📌 How to Use This `README.md`**
-1️⃣ **Copy and save this file** as `README.md`.  
-2️⃣ **Ensure your project follows the folder structure** mentioned above.  
-3️⃣ **Modify the GitHub link** in the clone command if needed.  
-
-🚀 **Now, your project is fully documented and ready for GitHub! Let me know if you need modifications.** 🚀
