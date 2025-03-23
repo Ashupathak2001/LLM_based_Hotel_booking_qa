@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV - Hotel Booking QA</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <div class="container mt-5 text-center">
+        <h1 class="text-primary">Upload Hotel Booking Data</h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" class="form-control mt-3" accept=".csv" required>
+            <button type="submit" class="btn btn-success mt-3">Upload & Process</button>
+        </form>
+    </div>
+</body>
+</html>
